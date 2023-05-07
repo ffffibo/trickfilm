@@ -8,3 +8,7 @@ If you're a creative professional looking to save time and improve your workflow
 ## Contributing
 
 trickfilm welcomes contributions to this repository from other creative professionals. If you have an idea for a script or have found a bug or issue with one of the existing scripts, please open an issue on the repository or submit a pull request with your proposed changes.
+
+## Scripts
+* [Simple Text Automator](https://github.com/ffffibo/trickfilm/blob/128bbb3219bf67c71da87b01e784561071b77878/after%20effects/Simple%20Text%20Automator/SimpleTextAutomator-1-0.jsx) – After Effects - duplicates and modifies compositions based on csv data
+* [Split Shapes](https://github.com/ffffibo/trickfilm/blob/128bbb3219bf67c71da87b01e784561071b77878/after%20effects/Split%20Shapes/split-shapes-01.jsx) – After Effects - splits shape layers into separate layers, with one shape each
