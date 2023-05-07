@@ -5,7 +5,6 @@
 changing the text layers in the duplicated compositions based on the data in 
 the CSV file. The script can be used to quickly generate multiple versions of
 compositions with different text data.
-
 To use the script successfully, it's important to ensure that the names of 
 the text layers in the composition match the corresponding headers in the 
 CSV file. Additionally, the name of the new composition that is created by
