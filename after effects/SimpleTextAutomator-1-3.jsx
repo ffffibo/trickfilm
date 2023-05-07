@@ -1,4 +1,4 @@
-// fibo@trickfilm 2023
+// ffffibo@trickfilm 2023
 // After Effects
 // Simple Text Automator 1.0
 /* The script reads a CSV file and then duplicates the selected compositions,
