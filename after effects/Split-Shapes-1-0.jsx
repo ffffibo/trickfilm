@@ -1,4 +1,4 @@
-// fibo@trickfilm 2023
+// ffffibo@trickfilm 2023
 // After Effects
 // Split Shapes
 /* This script defines a function called splitShapes() that takes all Shape Layers
