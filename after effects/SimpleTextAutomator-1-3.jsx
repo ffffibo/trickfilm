@@ -135,7 +135,7 @@ getFileButton.onClick = function() {
 applyButton.onClick = function() {
     if(file) {
         if (selComps.length>0){
-            app.beginUndoGroup("Simple Automator");
+            app.beginUndoGroup("Simple Text Automator");
             var fileExtension = fileLocBox.text;
             var fileData = readCSV();
             changeComps(fileData);
