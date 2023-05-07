@@ -1,12 +1,12 @@
 // fibo@trickfilm 2023
 // After Effects
-// Split Shapes 1.0
+// Split Shapes
 /* This script defines a function called splitShapes() that takes all Shape Layers
  and splits the shapes in the layer into separate layers, each with only one shape. 
  It does this by looping through all of the shapes in the Shape Layer and creating 
  a new layer for each shape. It sets the name of the new layer to the name of the shape, 
  and then removes all of the shapes in the new layer except for the one that we want to 
- keep. Finally, it ends the undo group and calls the function.
+ keep.
  */
 
 // Define the function
