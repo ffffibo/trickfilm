@@ -1,10 +1,15 @@
 // fibo@trickfilm 2023
 // After Effects
 // Simple Text Automator 1.0
-/* The script reads a CSV file and then duplicates a specific composition 
-in the After Effects project, changing the text layers in the duplicated 
-composition based on the data in the CSV file. The script can be used to 
-quickly generate multiple versions of a composition with different text data.
+/* The script reads a CSV file and then duplicates the selected compositions,
+changing the text layers in the duplicated compositions based on the data in 
+the CSV file. The script can be used to quickly generate multiple versions of
+compositions with different text data.
+
+To use the script successfully, it's important to ensure that the names of 
+the text layers in the composition match the corresponding headers in the 
+CSV file. Additionally, the name of the new composition that is created by
+the script is connected to the data in the first column of the CSV file's header.
  */
 
 // GLOBAL VARS
